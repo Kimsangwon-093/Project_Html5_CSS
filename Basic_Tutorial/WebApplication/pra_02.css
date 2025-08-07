@@ -1,0 +1,13 @@
+table, tr, th, td {
+    border: 1px solid #000;
+}
+
+table, tr, th, td{
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.arm
+{
+    margin-bottom: 10px;
+}
